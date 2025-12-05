@@ -1,5 +1,5 @@
 # Fire Weather Index (FWI) Prediction Model
-## Complete ML Pipeline with Ridge Regression
+## Infosys Springboard Machine Learning Project
 
 ---
 
